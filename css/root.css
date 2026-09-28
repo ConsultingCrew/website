@@ -67,8 +67,8 @@ small{color:var(--d-muted)}
 button,input,select,textarea{font:inherit}
 button,a,input,select,textarea{touch-action:manipulation}
 
-:focus-visible{outline:3px solid rgba(201,0,0,.35);outline-offset:3px}
-:where(a,button,input,select,textarea):focus-visible{outline:3px solid rgba(204,0,0,.42);outline-offset:3px}
+:focus-visible{outline:3px solid rgba(201,0,0,.25);outline-offset:3px}
+:where(a,button,input,select,textarea):focus-visible{outline:3px solid rgba(204,0,0,.30);outline-offset:3px}
 
 [hidden]{display:none!important}
 .sr-only{
