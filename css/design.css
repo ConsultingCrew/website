@@ -202,10 +202,10 @@ input::placeholder,textarea::placeholder{color:#8f969d}
 .home-utility-grid>a{min-height:130px;display:grid;grid-template-columns:47px 1fr 15px;align-items:center;gap:17px;padding:20px 26px 20px 0;border-right:1px solid rgba(255,255,255,.22)}
 .home-utility-grid>a:not(:first-child){padding-left:26px}
 .home-utility-grid>a:last-child{border-right:0}
-.home-utility-icon{width:44px;height:44px;border:1px solid rgba(255,255,255,.35);display:grid;place-items:center}
-.home-utility-grid span{display:block;font-size:8px;letter-spacing:.15em;opacity:.65}
-.home-utility-grid strong{display:block;font-size:14px;margin:5px 0}
-.home-utility-grid small{font-size:9px;opacity:.7}
+.home-utility-icon{width:44px;height:44px;border:0px solid rgba(255,255,255,.35);display:grid;place-items:center}
+.home-utility-grid span{display:block;font-size:11px;letter-spacing:.15em;opacity:.92}
+.home-utility-grid strong{display:block;font-size:17px;margin:5px 0}
+.home-utility-grid small{font-size:11px;opacity:.92;color:white}
 .home-utility-grid>a>i{font-size:11px}
 .home-utility-grid>a:hover{background:rgba(0,0,0,.07)}
 
